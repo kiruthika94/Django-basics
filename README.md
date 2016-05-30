@@ -1,2 +1,4 @@
 # Django-basics
-Django
+Django basic projects 
+
+Mysite anad poll
